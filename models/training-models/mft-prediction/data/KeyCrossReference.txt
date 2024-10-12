@@ -1,0 +1,18 @@
+Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
+Input Variables:
+
+Feature Name	Data Type	Description
+Packet Size	Continuous	Size of the packet in bytes
+Inter-Arrival Time	Continuous	Time between packet arrivals
+Source IP Address Frequency	Continuous	Frequency of packets from a specific source IP
+TCP Flags (SYN, ACK, PSH, etc.)	Binary	Presence or absence of TCP flags
+Protocol	Categorical	TCP, UDP, ICMP, etc.
+Time of Day	Categorical	Hour of the day
+Day of Week	Categorical	Day of the week
+Source Country	Categorical	Country of origin of the packet
+NetworkProtocol,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Age,Outcome
+
+Prompting Clues
+1. tell how to deploy within a python jupiter notebook a Malware Detection Static Analysis  Analyzing the structure and characteristics of files transfers to classify them as malicious, suspicious or benign, providing input feature variables.
+
+2. 
